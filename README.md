@@ -5,7 +5,8 @@ Bot movement with the help of EEG Neurosky Headset.
 This projects mainly target people with Locked In Syndrome.
 
 Technoligies Used
-1.Neural Networks
-2.Python
-3.Raspberry Pi
-4.IOT
+<br>
+1.Neural Networks<br>
+2.Python<br>
+3.Raspberry Pi<br>
+4.IOT<br>
